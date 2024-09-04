@@ -11,3 +11,10 @@
 > - At the end of the script, we need an output of the following:
 >   - Sum of all integers (after multiplying them by 3 or 2)
 >   - Count of all lines that present a string value
+
+
+
+## How To Run
+- Configure TCL on your machine —downloading TCL executable and adding it to `PATH`—
+- Change directory to project's directory
+- run the following command `tclsh script.tcl`
