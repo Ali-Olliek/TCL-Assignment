@@ -18,4 +18,4 @@
 - Configure TCL on your machine —downloading TCL executable and adding it to `PATH`—
 - Change directory to project's directory
 - Add testing examples to `eval.txt`
-- run the following command `tclsh script.tcl`
+- Run the following command `tclsh script.tcl`
